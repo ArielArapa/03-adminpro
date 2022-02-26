@@ -7,7 +7,6 @@ import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router'
 import { ComponentsModule } from '../components/components.module';
 
-
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { ProgressComponent } from './progress/progress.component';
 import { Grafica1Component } from './grafica1/grafica1.component';
